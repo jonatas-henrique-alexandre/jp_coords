@@ -14,7 +14,7 @@ Config.SaveFile = 'coordenadas.txt'      -- Nome do arquivo onde será salvo
 -- Adicione quantos links quiser abaixo. 
 -- Se não quiser usar temporariamente, basta deixar a tabela vazia: Config.Webhooks = {}
 Config.Webhooks = {
-    'https://discord.com/api/webhooks/1418197845525135440/xTdhfgcTtW3sruheQ7tI1mElwnHP-MWMRzsPhpvZeihHqQve1fbQbzXTmVocyiR3SvSb',
+    -- 'COLOQUE_SEU_LINK_DO_WEBHOOK_AQUI_1',
     -- 'COLOQUE_SEU_LINK_DO_WEBHOOK_AQUI_2',
     -- 'COLOQUE_SEU_LINK_DO_WEBHOOK_AQUI_3',
 }
